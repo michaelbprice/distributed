@@ -1,0 +1,12 @@
+Next ID: 9
+
+Status  ID    Est  Description
+======  ====  ===  ===========
+plan    1     1    Organize Scrum framework
+plan    8     2    Determine licensing
+undef   6     5    Set up build system (including unit test infrastructure)
+undef   2     3    Create 'distribute' front-end and 'distributed' agent
+undef   7     5    Set up continuous integration
+undef   5     5    Implement configuration capabilities for 'distribute' and 'distributed'
+undef   3     5    Establish communication between 'distribute' and 'distributed'
+undef   4     8    Implement agent "registration" mechanisms 
