@@ -1,0 +1,10 @@
+A cross-platform distributed build system.
+
+Goals:
+1) Portability across several flavors of operating systems and processors
+2) Simple build agent deployment and registration
+3) Support for multiple compilers/languages, focusing first on C++
+4) Distribution decisions based upon heuristics and historical data
+5) Agile, not chaotic
+
+Similar: distcc, Xoreax Incredibuild
